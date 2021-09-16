@@ -1,0 +1,50 @@
+div.style1 {
+    background-color:rgb(102, 102, 212);
+    color:rgb(8, 8, 8);
+    padding:25px;
+    text-align: center;
+   }
+   div.style2 {
+    background-color:rgb(248, 252, 4);
+    color:rgb(8, 8, 8);
+    padding: 400px;
+    text-align: center;
+   }
+   div.style3 {
+    background-color:rgb(4, 252, 4);
+    color:rgb(8, 8, 8);
+    padding: 25px;
+    text-align: center;
+   }
+   div.style4 {
+    background-color:rgb(252, 4, 240);
+    color:rgb(7, 7, 7);
+    padding: 25px;
+    width:185px;
+    height:768px;
+    float: left;
+    text-align:center;
+    line-height: 47em;
+   }
+   div.style5 {
+    background-color:rgb(17, 190, 32);
+    color:rgb(7, 7, 7);
+    padding: 25px;
+    width:185px;
+    height:360px;
+    float: left;
+    text-align:center;
+    line-height: 20em;
+   }
+   div.style6 {
+    background-color:rgb(238, 11, 189);
+    color:rgb(7, 7, 7);
+    padding: 25px;
+    width:180px;
+    height:360px;
+    float:left;
+    text-align:center;
+    line-height: 20em;
+    margin-left: auto;
+    ;
+   }
