@@ -1,24 +1,24 @@
-div.style1 {
+div.bandeau {
     background-color:rgb(102, 102, 212);
     color:rgb(8, 8, 8);
     padding:25px;
     text-align: center;
    }
-   div.style2 {
+div.contenu{
     background-color:rgb(248, 252, 4);
     color:rgb(8, 8, 8);
     padding: 400px;
     text-align: center;
    
    }
-   div.style3 {
+div.pied {
     background-color:rgb(43, 182, 43);
     color:rgb(8, 8, 8);
     padding: 25px;
     text-align: center;
    
    }
-   div.style4 {
+ div.menuhaut {
     background-color:rgb(252, 4, 240);
     color:rgb(7, 7, 7);
     padding: 45px;
@@ -28,7 +28,7 @@ div.style1 {
     text-align:center;
     line-height: 45em;
    }
-   div.style5 {
+div.menuBas {
     background-color:rgb(78, 150, 84);
     color:rgb(7, 7, 7);
     padding: 45px;
@@ -38,7 +38,7 @@ div.style1 {
     text-align:center;
     
    }
-   div.style6 {
+div.style6 {
     background-color:rgb(17, 190, 32);
     color:rgb(7, 7, 7);
     padding: 25px;
